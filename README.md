@@ -18,7 +18,7 @@ Clone/fork repo and install the necessary dependencies. Run the server with npm 
 Deployment
 <br>
 
-React App Deplyment:
+React App Deployment:
 https://ofarrell23.github.io/employee-directory/
 
 # User Story
